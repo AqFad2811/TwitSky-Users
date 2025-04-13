@@ -27,28 +27,4 @@ After so many people started switch to Bluesky, I always had a feeling where you
 
 ## Request Users
 
-Your profile/favourite users is not on our database? Don't worry, you can request a user here:
-
-[Request a user](https://aqfad.me/twitsky-users/request.html){: .redirect-button }
-
-<style>
-.redirect-button {
-    display: inline-block;
-    background-color: #029bff;
-    color: white;
-    text-align: center;
-    padding: 0.75rem 1.5rem;
-    border-radius: 25px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: background-color 0.2s;
-    margin-top: 1rem;
-}
-.redirect-button:hover {
-    background-color: #007acc;
-}
-@media (prefers-color-scheme: dark) {
-    .redirect-button { background-color: #007acc; }
-    .redirect-button:hover { background-color: #006bb3; }
-}
-</style>
+Your profile/favourite users is not on our database? Don't worry, you can request a user [here](https://aqfad.me/twitsky-users/request.html)
